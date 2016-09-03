@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 34,
+                    "endColumn": 24,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "/home/user/NitroShare Data/AllDemos/app/src/main/res/values-w820dp/attrs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 35,
+                        "endColumn": 24,
+                        "endOffset": 1475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endColumn": 57,
+                    "endOffset": 1508
+                },
+                "from": {
+                    "file": "/home/user/NitroShare Data/AllDemos/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    }
+]

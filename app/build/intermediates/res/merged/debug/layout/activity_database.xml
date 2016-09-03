@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/txtname"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Name"
+        android:singleLine="true" />
+
+    <EditText
+        android:id="@+id/txtcity"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter City"
+        android:singleLine="true" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Save" />
+
+    <ListView
+        android:id="@+id/lvdata"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"></ListView>
+
+
+</LinearLayout>

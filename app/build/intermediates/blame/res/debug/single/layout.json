@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/ua_activity_landing_page.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/layout/ua_activity_landing_page.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/fragment_two.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/fragment_two.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_parse_registration.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_parse_registration.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_facebookfriendlist.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_facebookfriendlist.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_ticktock_signup.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_ticktock_signup.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_shadow.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_shadow.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/row_user.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/row_user.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_camera_crop.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_camera_crop.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_animation.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_animation.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/fragment_three.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/fragment_three.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/fragment_home.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/header_layout.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/header_layout.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_navigationdrawer_main.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_navigationdrawer_main.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/row_userlist.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/row_userlist.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_currentlatlong.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_currentlatlong.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_ticktock_round.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_ticktock_round.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_phonereceiver.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_phonereceiver.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_scroll_and_moveimage.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_scroll_and_moveimage.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_listview_with_selected.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_listview_with_selected.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_database.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_database.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/row_headerstate.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/row_headerstate.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_getspeed.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_getspeed.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_parse_data.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_parse_data.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/row_listuser.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/row_listuser.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/acitivity_stikkilist.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/acitivity_stikkilist.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/layout_userlist.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/layout_userlist.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_ticktock_home.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_ticktock_home.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/row_textview.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/row_textview.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/layout_notification.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/layout_notification.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/fragment_one.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/fragment_one.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/cropimage.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/cropimage.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/layout_listitem.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/layout_listitem.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_scrollview_inner_listview.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_scrollview_inner_listview.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_retrofitdata.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_retrofitdata.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_drowing.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_drowing.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/uc_header.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/uc_header.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_startstopsetvice.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_startstopsetvice.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_ticktock_login.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_ticktock_login.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/fragment_photo.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/fragment_photo.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/activity_broadcastreceiver.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/activity_broadcastreceiver.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/row_state.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/row_state.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.2/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/listview_item.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/src/main/res/layout/listview_item.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+    }
+]

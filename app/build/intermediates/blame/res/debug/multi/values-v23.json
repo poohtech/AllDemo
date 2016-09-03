@@ -1,0 +1,201 @@
+[
+    {
+        "outputFile": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/values-v23/values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 43,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 43,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 51,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 51,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 49,
+                    "endOffset": 242
+                },
+                "from": {
+                    "file": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 49,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 247,
+                    "endColumn": 134,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 134,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endColumn": 74,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 655,
+                        "endColumn": 74,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 86,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 730,
+                        "endColumn": 86,
+                        "endOffset": 812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 867
+                },
+                "from": {
+                    "file": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 817,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 872,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1207
+                },
+                "from": {
+                    "file": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1212,
+                    "endColumn": 104,
+                    "endOffset": 1312
+                },
+                "from": {
+                    "file": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1715,
+                        "endColumn": 104,
+                        "endOffset": 1815
+                    }
+                }
+            }
+        ]
+    }
+]

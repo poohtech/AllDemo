@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/drawable-v21/ua_item_mc_background.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/drawable-v21/ua_item_mc_background.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/drawable-v21/ua_iam_background.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/drawable-v21/ua_iam_background.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

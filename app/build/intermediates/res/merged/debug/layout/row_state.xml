@@ -1,0 +1,93 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rlMain"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#FAFAFA">
+
+    <ImageView
+        android:id="@+id/imgLog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:src="@drawable/icn_user"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/llText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/imgLog"
+        android:gravity="left|center_vertical"
+        android:orientation="vertical"
+        android:padding="7dp">
+
+        <TextView
+            android:id="@+id/txtname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="100"
+            android:text="Gujarat"
+            android:textColor="#000000"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/txtsubname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtname"
+            android:layout_marginTop="3dp"
+            android:tag="100"
+            android:text="Ahmedabad"
+            android:textColor="#000000"
+            android:textSize="@dimen/mediumText"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/txtaddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtname"
+            android:layout_marginTop="3dp"
+            android:tag="100"
+            android:text="Ahmedabad"
+            android:textColor="#000000"
+            android:textSize="@dimen/mediumText"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/txtaddress2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtname"
+            android:layout_marginTop="3dp"
+            android:tag="100"
+            android:text="Ahmedabad"
+            android:textColor="#000000"
+            android:textSize="@dimen/mediumText"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/txtdistance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtname"
+            android:layout_marginTop="3dp"
+            android:tag="100"
+            android:text="Ahmedabad"
+            android:textColor="#000000"
+            android:textSize="@dimen/mediumText"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.4dp"
+        android:layout_below="@+id/llText"
+        android:background="#550000"></View>
+</RelativeLayout>

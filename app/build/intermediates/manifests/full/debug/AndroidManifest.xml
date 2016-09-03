@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:amazon="http://schemas.amazon.com/apk/res/android"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="test.esp.com.alldemos"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <permission
+        android:name="com.esp.inkskill.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.esp.inkskill.permission.C2D_MESSAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <permission
+        android:name="test.esp.com.alldemos.permission.UA_DATA"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="test.esp.com.alldemos.permission.UA_DATA" /> <!-- GCM -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="test.esp.com.alldemos.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="test.esp.com.alldemos.permission.C2D_MESSAGE" /> <!-- ADM -->
+    <uses-permission android:name="com.amazon.device.messaging.permission.RECEIVE" />
+
+    <permission
+        android:name="test.esp.com.alldemos.permission.RECEIVE_ADM_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="test.esp.com.alldemos.permission.RECEIVE_ADM_MESSAGE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:name="test.esp.com.alldemos.DemoApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="test.esp.com.alldemos.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="test.esp.com.alldemos.database.DatabaseActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name="test.esp.com.alldemos.ScrollviewInnerListview.ScrollviewInnerListviewActivity" />
+        <activity android:name="test.esp.com.alldemos.Drowing.DrowingActivity" />
+
+        <!-- TICKTOCK -->
+        <activity android:name="test.esp.com.alldemos.TickTock.TickTockRoundActivity" />
+
+        <!-- NavigationDrawer -->
+        <activity android:name="test.esp.com.alldemos.NavigationDrawer.NavigationDrawerMainActivity" />
+
+        <!-- GPS -->
+        <activity android:name="test.esp.com.alldemos.CurrentLatLong.MyLocation" />
+
+        <!-- GPS -->
+        <activity android:name="test.esp.com.alldemos.StikkyList.StikkyListviewActivity" />
+
+        <!-- GPS -->
+        <activity android:name="test.esp.com.alldemos.Animation.MyAnimation" />
+        <activity android:name="test.esp.com.alldemos.FacebookList.FacebookFriendListActivity" />
+        <activity android:name="test.esp.com.alldemos.Shadow.ShadowActivity" />
+        <activity android:name="test.esp.com.alldemos.ServiceBase.StartStopService" />
+        <activity android:name="test.esp.com.alldemos.CamaraWithCrop.CamaraWithCropActivity" />
+        <activity
+            android:name="test.esp.com.alldemos.CropImage.CropImage"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name="test.esp.com.alldemos.MyService"
+            android:enabled="true" />
+
+        <activity android:name="test.esp.com.alldemos.ReceiverExample.BrodcastReceiverActivity" />
+        <activity android:name="test.esp.com.alldemos.ReceiverExample.LogReceiverActivity" />
+        <activity android:name="test.esp.com.alldemos.GetSpeed.GetSpeedActivity" />
+        <activity
+            android:name="test.esp.com.alldemos.ScrollAndMoveImage.ScrollAndMoveActivity"
+            android:screenOrientation="landscape" />
+        <activity android:name="test.esp.com.alldemos.ListViewWithSelected.ListviewWithSelected" />
+
+        <receiver android:name="test.esp.com.alldemos.ReceiverExample.LogReceiver" >
+            <intent-filter android:priority="999" >
+                <action android:name="android.intent.action.PHONE_STATE" />
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Airship RECEIVER START -->
+
+        <receiver
+            android:name="com.urbanairship.CoreReceiver"
+            android:exported="false" >
+            <intent-filter android:priority="-999" >
+                <action android:name="com.urbanairship.push.OPENED" />
+
+                <category android:name="test.esp.com.alldemos" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.urbanairship.push.GcmPushReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="test.esp.com.alldemos" />
+            </intent-filter>
+            <!-- REQUIRED for detecting when the application is upgraded so it can request a new GCM ID -->
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.urbanairship.push.PushService"
+            android:label="Push Notification Service" />
+        <service
+            android:name="com.urbanairship.analytics.EventService"
+            android:label="Event Service" />
+
+        <provider
+            android:name="com.urbanairship.UrbanAirshipProvider"
+            android:authorities="test.esp.com.alldemos.urbanairship.provider"
+            android:exported="true"
+            android:multiprocess="true"
+            android:permission="test.esp.com.alldemos.permission.UA_DATA" />
+
+        <!-- End Airship RECEIVER START -->
+
+
+        <!-- FaceBook -->
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/fbappid" />
+
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider812433338887803"
+            android:exported="true" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- ADM -->
+        <amazon:enable-feature
+            android:name="com.amazon.device.messaging"
+            android:required="false" />
+
+        <activity
+            android:name="com.urbanairship.actions.ActionActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity android:name="com.urbanairship.CoreActivity" />
+        <activity
+            android:name="com.urbanairship.google.PlayServicesErrorActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity android:name="com.urbanairship.messagecenter.MessageActivity" />
+        <activity
+            android:name="com.urbanairship.messagecenter.MessageCenterActivity"
+            android:label="@string/ua_message_center_title" />
+        <activity
+            android:name="com.urbanairship.actions.LandingPageActivity"
+            android:exported="false"
+            android:theme="@style/LandingPageStyle" >
+            <meta-data
+                android:name="com.urbanairship.action.LANDING_PAGE_VIEW"
+                android:resource="@layout/ua_activity_landing_page" />
+            <meta-data
+                android:name="com.urbanairship.push.iam.EXCLUDE_FROM_AUTO_SHOW"
+                android:value="true" />
+
+            <intent-filter>
+                <action android:name="com.urbanairship.actions.SHOW_LANDING_PAGE_INTENT_ACTION" />
+
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+                <data android:scheme="message" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="com.urbanairship.actions.ActionService" />
+        <service android:name="com.urbanairship.richpush.RichPushUpdateService" />
+        <service
+            android:name="com.urbanairship.location.LocationService"
+            android:label="Segments Service" />
+        <service
+            android:name="com.urbanairship.push.UAInstanceIDListenerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.urbanairship.push.AdmPushReceiver"
+            android:permission="com.amazon.device.messaging.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.amazon.device.messaging.intent.REGISTRATION" />
+                <action android:name="com.amazon.device.messaging.intent.RECEIVE" />
+
+                <category android:name="test.esp.com.alldemos" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="com.google.android.gms.measurement.AppMeasurementContentProvider"
+            android:authorities="test.esp.com.alldemos.google_measurement_service"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+    </application>
+
+</manifest>

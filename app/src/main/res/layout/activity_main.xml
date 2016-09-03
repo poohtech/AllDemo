@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/mobilebackground" />
+
+    <ScrollView
+        android:id="@+id/svMain"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/databasedemo"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Database" />
+
+            <TextView
+                android:id="@+id/UploadImageWithCrop"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/databasedemo"
+                android:text="UploadImageWithCrop" />
+
+
+            <TextView
+                android:id="@+id/scrollListview"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/UploadImageWithCrop"
+                android:text="Scrollview with Listview" />
+
+            <TextView
+                android:id="@+id/ticktock"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/scrollListview"
+                android:text="Tick Tock" />
+
+            <TextView
+                android:id="@+id/drowingImage"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ticktock"
+                android:text="Drowing Image" />
+
+            <TextView
+                android:id="@+id/NavigationDrawer"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/drowingImage"
+                android:text="Navigation Drawer" />
+
+            <TextView
+                android:id="@+id/CurrentLatLong"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/NavigationDrawer"
+                android:text="Current LatLong" />
+
+            <TextView
+                android:id="@+id/StikkyListview"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/CurrentLatLong"
+                android:text="Stikky Listview" />
+
+            <TextView
+                android:id="@+id/Animation"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/StikkyListview"
+                android:text="Animation" />
+
+            <TextView
+                android:id="@+id/FacebookFriendList"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/Animation"
+                android:text="FacebookFriendList" />
+
+            <TextView
+                android:id="@+id/ShadowExample"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/FacebookFriendList"
+                android:text="ShadowExample" />
+
+            <TextView
+                android:id="@+id/ServiceStartStop"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ShadowExample"
+                android:text="ServiceStartStop" />
+
+            <TextView
+                android:id="@+id/BrodcastReceiver"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ServiceStartStop"
+                android:text="BrodcastReceiver" />
+
+            <TextView
+                android:id="@+id/GetSpeed"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BrodcastReceiver"
+                android:text="GetSpeed" />
+
+            <TextView
+                android:id="@+id/ScrollAndMoveImage"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/GetSpeed"
+                android:text="ScrollAndMoveImage" />
+
+            <TextView
+                android:id="@+id/WEbViewSWFFile"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ScrollAndMoveImage"
+                android:text="WEbViewSWFFile" />
+
+            <TextView
+                android:id="@+id/RetrofitParsing"
+                style="@style/menuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/WEbViewSWFFile"
+                android:text="ListViewWithSelected" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

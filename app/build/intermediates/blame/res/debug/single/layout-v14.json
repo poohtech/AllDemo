@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout-v14/ua_fragment_message_list.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/layout-v14/ua_fragment_message_list.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout-v14/ua_fragment_iam_card.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/layout-v14/ua_fragment_iam_card.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout-v14/ua_iam_content.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/layout-v14/ua_iam_content.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout-v14/ua_item_mc_content.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/layout-v14/ua_item_mc_content.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout-v14/ua_fragment_mc.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/layout-v14/ua_fragment_mc.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout-v14/ua_fragment_no_message_selected.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/layout-v14/ua_fragment_no_message_selected.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout-v14/ua_item_mc.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/layout-v14/ua_item_mc.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout-v14/ua_fragment_iam.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/layout-v14/ua_fragment_iam.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout-v14/ua_item_mc_icon_content.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/layout-v14/ua_item_mc_icon_content.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout-v14/ua_fragment_message.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/layout-v14/ua_fragment_message.xml"
+    },
+    {
+        "merged": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/res/merged/debug/layout-v14/ua_iam_button.xml",
+        "source": "/home/user/NitroShare Data/AllDemos/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/7.1.5/res/layout-v14/ua_iam_button.xml"
+    }
+]
